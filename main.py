@@ -65,6 +65,7 @@ while (QuiteGame == False):
                   break
 
 
+
                # Prints list of random items of given length
               ComChoice =sample(gameChices, 1)
               Choiceitems=(MyChoice.strip().upper())[0] + (ComChoice[0])[0]
